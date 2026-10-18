@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+data/private/
+results/private/
+.env
+.DS_Store
+results/roundtrip_report.json
